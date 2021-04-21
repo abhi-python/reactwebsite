@@ -194,7 +194,7 @@ const ContactUsBlock = styled(Box)`
         display: block;
         position: absolute;
         top: 0;
-        background-image:url('asset/images/img2.jpg');
+        background-image:url('../images/img2.jpg');
         background-size:100%;
         background-attachment:fixed;
         background-repeat: no-repeat;
